@@ -1,5 +1,5 @@
 # chat-application-
-Here's what we'll be using to build this app:
+Here's what I'll be using to build this app:
 
 Frontend: React (A frontend JavaScript framework for building interactive applications)
 Backend: Node and Express (Express is very popular NodeJS framework that allows us to easily create APIs and backends)
