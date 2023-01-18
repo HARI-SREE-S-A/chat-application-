@@ -1,4 +1,4 @@
-# chat-application-
+# chat-application
 Here's what I'll be using to build this app:
 
 Frontend: React (A frontend JavaScript framework for building interactive applications)
